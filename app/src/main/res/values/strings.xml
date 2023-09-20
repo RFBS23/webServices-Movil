@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Web Services</string>
+    <string name="btn_register">Registrar Colaborador</string>
+    <string name="btn_listar">Listar Colaborador</string>
 </resources>
